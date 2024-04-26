@@ -3,6 +3,9 @@
 
 Next Online Learning is a web application designed to provide a comprehensive online learning experience. It offers a range of features for both educators and learners, making it easy to manage virtual classrooms, schedule classes, track attendance, and much more.
 
+![Copy of Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post (3)](https://github.com/fahad0samara/next-online-learning/assets/90055525/4181c0f0-dd63-42c2-893b-950967a362ea)
+
+
 ## Features
 
 - **All-In-One Studying:** Skilline is a powerful online software suite that combines all the tools needed to run a successful school or office.
